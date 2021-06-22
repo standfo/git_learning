@@ -1,5 +1,4 @@
 we are learning git.
 
-asdasda
-asdasd
-qweqe
+
+Are you ok?
